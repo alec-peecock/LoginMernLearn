@@ -1,0 +1,3 @@
+[submodule "LoginMernLearn"]
+	path = LoginMernLearn
+	url = https://github.com/alec-peecock/LoginMernLearn.git
