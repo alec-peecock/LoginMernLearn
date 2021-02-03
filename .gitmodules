@@ -1,3 +1,4 @@
-[submodule "LoginMernLearn"]
-	path = LoginMernLearn
-	url = https://github.com/alec-peecock/LoginMernLearn.git
+
+[submodule "Login/login-app"]
+    path = Login/login-app
+    url = https://github.com/alec-peecock/LoginMernLearn/Login/login-app.git
